@@ -1,0 +1,4 @@
+dash
+dash_draggable
+plotly
+pandas
